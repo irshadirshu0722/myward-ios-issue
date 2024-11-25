@@ -1,4 +1,3 @@
-it's first time i am asking question in stack overflow . I hope you this will help me to solve the issue.
 
 # About project 
 - I am using expo and axios for api request 
